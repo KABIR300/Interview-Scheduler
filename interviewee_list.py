@@ -4,8 +4,8 @@ from hr_interface import get_interviewees
 from datetime import datetime, timedelta
 
 INTERVIEW_DURATION = timedelta(minutes=30)
-INTERVIEW_START_TIME = datetime.strptime('11:00', '%H:%M')
-INTERVIEW_END_TIME = datetime.strptime('23:59', '%H:%M')
+INTERVIEW_START_TIME = datetime.strptime('9:00', '%H:%M')
+INTERVIEW_END_TIME = datetime.strptime('17:00', '%H:%M')
 WAITING_TIME = timedelta(hours=24)
 
 
