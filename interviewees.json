@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "sahil",
+        "email": "sahil@gmail",
+        "availability": ""
+    },
+    {
+        "id": 2,
+        "name": "sahil",
+        "email": "sahil@gmail",
+        "availability": ""
+    },
+    {
+        "id": 3,
+        "name": "sahil",
+        "email": "sahil1@gmail",
+        "availability": ""
+    },
+    {
+        "id": 4,
+        "name": "sahil2",
+        "email": "sahil2@gmail",
+        "availability": ""
+    },
+    {
+        "id": 5,
+        "name": "sahil3 kabir",
+        "email": "sahil3@gmail.com",
+        "availability": ""
+    },
+    {
+        "id": 6,
+        "name": "sadiyah",
+        "email": "sadiyah@gmail.com",
+        "availability": ""
+    }
+]
